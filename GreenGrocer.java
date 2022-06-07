@@ -1,3 +1,5 @@
+package GreenGrocer;
+
 import java.util.Scanner;
 
 public class GreenGrocer {
